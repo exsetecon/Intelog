@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 05 Jan 2019 16:29:53 at https://intelogin.wordpress.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://intelogin.wordpress.com/ -O1 "E:\HTTrack\Intelog" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:30:07	Error: 	"Method Not Allowed" (405) at link https://intelogin.wordpress.com/xmlrpc.php (from https://intelogin.wordpress.com/)
+16:30:07	Warning: 	Found for https://intelogin.wordpress.com/about-us-2/?share=twitter
+16:30:07	Warning: 	File has moved from https://intelogin.wordpress.com/about-us-2/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=About%20Us&url=https%3A%2F%2Fintelogin.wordpress.com%2Fabout-us-2%2F
+16:30:07	Warning: 	Found for https://intelogin.wordpress.com/about-us-2/?share=facebook
+16:30:07	Warning: 	File has moved from https://intelogin.wordpress.com/about-us-2/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fintelogin.wordpress.com%2Fabout-us-2%2F&t=About%20Us
+16:30:07	Warning: 	Found for https://intelogin.wordpress.com/about-us-2/?share=google-plus-1
+16:30:07	Warning: 	File has moved from https://intelogin.wordpress.com/about-us-2/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2Fintelogin.wordpress.com%2Fabout-us-2%2F
+16:30:09	Warning: 	Found for https://intelogin.wordpress.com/services/?share=twitter
+16:30:09	Warning: 	File has moved from https://intelogin.wordpress.com/services/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Services&url=https%3A%2F%2Fintelogin.wordpress.com%2Fservices%2F
+16:30:09	Warning: 	Found for https://intelogin.wordpress.com/services/?share=facebook
+16:30:09	Warning: 	File has moved from https://intelogin.wordpress.com/services/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fintelogin.wordpress.com%2Fservices%2F&t=Services
+16:30:09	Warning: 	Found for https://intelogin.wordpress.com/services/?share=google-plus-1
+16:30:09	Warning: 	File has moved from https://intelogin.wordpress.com/services/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2Fintelogin.wordpress.com%2Fservices%2F
+16:30:09	Error: 	"Not Found" (404) at link https://intelogin.wordpress.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from 0.gravatar.com/js/gprofiles.js?ver=201901y)
+16:30:09	Error: 	"Not Found" (404) at link https://intelogin.wordpress.com/g.gif (from stats.wp.com/w.js?56)
+16:30:09	Error: 	"Not Found" (404) at link https://intelogin.wordpress.com/c.gif (from stats.wp.com/w.js?56)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 seconds : 34 links scanned, 23 files written (6124031 bytes overall) [6019425 bytes received at 376214 bytes/sec], 219732 bytes transferred using HTTP compression in 18 files, ratio 31%, 1.6 requests per connection
+(4 errors, 12 warnings, 0 messages)
